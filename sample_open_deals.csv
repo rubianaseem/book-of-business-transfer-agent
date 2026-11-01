@@ -1,0 +1,6 @@
+deal_id,account_id,deal_name,owner,stage,close_date,next_step,next_step_date
+D1,A100,Brightwave expansion,Dan Okafor,Negotiation,2026-11-20,Legal redlines back from customer,2026-11-06
+D2,A102,Ledgerly new logo,dan.okafor@northbeam.io,Discovery,11/30/2026,,
+D3,A103,Medcore platform,Dan Okafor,Proposal,2026-12-15,Security review with IT,2026-11-10
+D4,A106,Northpeak add-on,Dan Okafor,Qualification,2026-09-30,Re-engage champion,2026-11-04
+D5,A107,Halcyon pilot,Dan Okafor,Demo,2026-12-01,Pilot scope call,2026-11-12

@@ -1,0 +1,7 @@
+rep_id,name,email,crm_user_id,status,team,region,segment,industries,max_accounts,current_accounts,manager_email
+R01,Dan Okafor,dan.okafor@northbeam.io,81234501,Departing,Mid-Market EMEA,EMEA,Mid-Market,SaaS;Fintech,40,38,mara.lind@northbeam.io
+R02,Priya Shah,Priya.Shah@northbeam.io,81234502,active,Mid-Market EMEA,emea,mid market,Fintech; Healthcare,40,31,mara.lind@northbeam.io
+R03,Tom Becker,tom.becker@northbeam.io,81234503,Active ,Mid-Market EMEA,Europe,Mid-Market,SaaS;Manufacturing,40,39,mara.lind@northbeam.io
+R04,Lena Park,lena.park@northbeam.io,81234504,On Leave,Mid-Market EMEA,EMEA,Mid-Market,SaaS,40,22,mara.lind@northbeam.io
+R05,Sam Ortiz,sam.ortiz@northbeam.io,81234505,active,Enterprise EMEA,EMEA,Enterprise,SaaS;Fintech;Healthcare,25,21,ines.vidal@northbeam.io
+R06,Jo Rivera,jo.rivera@northbeam.io,,active,Mid-Market NA,North America,Mid-Market,SaaS,40,30,kate.moss@northbeam.io

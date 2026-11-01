@@ -1,0 +1,6 @@
+task_id,account_id,deal_id,owner,type,subject,due_date
+T1,A100,D1,Dan Okafor,Meeting,Contract review call with Brightwave legal,2026-11-06
+T2,A102,D2,Dan Okafor,Call,Discovery follow-up,2026-10-20
+T3,A104,,Dan Okafor,Email,Quarterly check-in,2026-11-15
+T4,A106,D4,Dan Okafor,call,Re-engage Northpeak champion,2026-11-04
+T5,A103,D3,dan.okafor,Email,Send security pack,2026-11-03

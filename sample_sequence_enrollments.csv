@@ -1,0 +1,6 @@
+contact_email,account_id,sequence_name,enrolled_by,status,current_step,total_steps,next_step_date
+ana@brightwave.co.uk,A100,MM Expansion,Dan Okafor,Active,2,5,2026-11-04
+Ben@Ledgerly.com,A102,Discovery nurture,dan.okafor@northbeam.io,active,4,4,2026-11-05
+c.dupont@medcore.fr,A103,Security follow-up,Dan Okafor,Paused,1,3,
+kai@forgeline.de,A104,Re-engage cold,Dan Okafor,active,1,6,2026-11-03
+mo@halcyonpay.com.br,A107,Pilot nudges,Dan Okafor,active,3,4,2026-11-06

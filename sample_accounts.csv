@@ -1,0 +1,9 @@
+account_id,account_name,domain,owner,country,industry,employees,tier,parent_account_id,previous_owner,last_activity_date,renewal_date,named_account
+A100,Brightwave Ltd,brightwave.co.uk,Dan Okafor,United Kingdom,Software,420,A,,,2026-10-28,2027-01-15,Yes
+A101,Brightwave GmbH,brightwave.de,dan.okafor@northbeam.io,Germany,SaaS,150,b,A100,,28/09/2026,,no
+A102,Ledgerly,ledgerly.com,D. Okafor,UK,FinTech,300,B,,Priya Shah,2026-10-05,,
+A103,Medcore Health,medcore.fr,DAN OKAFOR ,France,Healthcare,2500,A,,,10/30/2026,2027-06-01,no
+A104,Forgeline Manufacturing,forgeline.de,Dan Okafor,DE,Manufacturing,210,C,,,2026-03-01,,
+A105,Quillstack,quillstack.io,dokafor,Ireland,SaaS,90,C,,,2026-08-14,,
+A106,Northpeak Analytics,northpeak.ai,Priya Shah,UK,SaaS,640,B,,,2026-10-22,,
+A107,Halcyon Pay,halcyonpay.com.br,Dan Okafor,Brazil,Fintech,180,B,,,2026-10-19,,

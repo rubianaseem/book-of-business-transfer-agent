@@ -1,0 +1,33 @@
+{
+  "as_of": "2026-11-02",
+  "departing_statuses": ["departing", "leaving", "offboarding"],
+  "eligible_statuses": ["active"],
+  "owner_aliases": {"d. okafor": "R01"},
+  "region_aliases": {"emea": "EMEA", "europe": "EMEA", "na": "NA", "north america": "NA", "latam": "LATAM"},
+  "country_region": {
+    "united kingdom": "EMEA", "uk": "EMEA", "germany": "EMEA", "de": "EMEA", "france": "EMEA", "fr": "EMEA",
+    "ireland": "EMEA", "ie": "EMEA", "netherlands": "EMEA", "spain": "EMEA",
+    "united states": "NA", "us": "NA", "usa": "NA", "canada": "NA",
+    "brazil": "LATAM", "mexico": "LATAM", "argentina": "LATAM"
+  },
+  "segment_aliases": {"mid market": "Mid-Market", "mid-market": "Mid-Market", "mm": "Mid-Market", "enterprise": "Enterprise", "ent": "Enterprise"},
+  "segment_by_employees": [[1000, "Enterprise"], [0, "Mid-Market"]],
+  "industry_aliases": {"software": "SaaS", "saas": "SaaS", "fintech": "Fintech", "payments": "Fintech", "healthcare": "Healthcare", "manufacturing": "Manufacturing"},
+  "late_stages": ["proposal", "negotiation", "contract sent", "verbal commit"],
+  "priority_weights": {
+    "tier": {"A": 3, "B": 2, "C": 1},
+    "named_account": 2,
+    "late_stage_deal": 3,
+    "any_open_deal": 1,
+    "deal_closing_soon": 2,
+    "renewal_soon": 2,
+    "meeting_soon": 2,
+    "active_sequence": 1,
+    "gone_quiet": -1
+  },
+  "priority_bands": {"P1": 8, "P2": 4},
+  "windows_days": {"deal_closing_soon": 30, "renewal_soon": 90, "meeting_soon": 14, "gone_quiet": 120},
+  "match_weights": {"industry_fit": 3, "previous_owner": 4, "headroom": 2},
+  "named_accounts_need_signoff": true,
+  "late_stage_close_window_days": 30
+}
